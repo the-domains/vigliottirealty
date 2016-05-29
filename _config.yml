@@ -1,0 +1,28 @@
+name: VigliottiRealty
+favicon: null
+layout_spectrum: 0.507151881698519
+typography_spectrum: 0.7962944810278714
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.06625075521878898
+  lightness: 0.49749333411455154
+  saturation: 0.6240903749130666
+  rhythmicContrast: 0.37990414444357157
+purpose: []
